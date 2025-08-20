@@ -21,8 +21,7 @@ The frontend is a Vue/React web application that displays the conversation, play
 > **Note:** Due to model being too large this frontend does not include a live backend.
 
 ## Demo / Screenshot
-[
-[![Screenshot of Vox Machina RPG](https://github.com/BoredCosmonaut/Vox-Machina-RPG-Web-App/blob/main/public/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-08-20%20182114.png))](https://github.com/BoredCosmonaut/Vox-Machina-RPG-Web-App/blob/main/public/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-08-20%20182114.png)
+[![Screenshot of Vox Machina RPG](https://github.com/BoredCosmonaut/Vox-Machina-RPG-Web-App/blob/main/public/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-08-20%20182114.png))]
 
 > Screenshot of the chat interface in action.
 

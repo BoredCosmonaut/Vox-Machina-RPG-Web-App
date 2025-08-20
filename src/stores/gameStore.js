@@ -27,7 +27,7 @@ export const useGameStore = defineStore('game', {
       if (!speaker) return "DM";
       const s = speaker.trim().toLowerCase();
 
-      // Skip Matthew
+
       if (s === "matthew") return null;
 
       if (s === "dm" || s === "response") return "DM";   // treat Response as DM
@@ -39,7 +39,7 @@ export const useGameStore = defineStore('game', {
       const trimmedInput = this.playerInput.trim();
       if (!trimmedInput) return;
 
-      // Add player's message instantly
+
       this.dialogue.push({ speaker: "Player", text: trimmedInput });
       this.scrollToBottom();
 

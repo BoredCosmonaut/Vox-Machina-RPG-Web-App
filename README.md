@@ -29,5 +29,5 @@ The frontend is a Vue/React web application that displays the conversation, play
 
 This project requires the Vox Machina AI model, which is too large to include here.  
 
-You can download it from [this separate repository](https://example.com/model-download](https://github.com/BoredCosmonaut/Vox-Machina-RPG-AI-Model/blob/main/readme.md)).
+You can download it from [this separate repository](https://github.com/BoredCosmonaut/Vox-Machina-RPG-AI-Model/blob/main/readme.md).
 
